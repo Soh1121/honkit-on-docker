@@ -1,0 +1,21 @@
+{
+  "root": ".",
+  "plugins": [
+    "lb2br",
+    "plantuml-cloud",
+    "hide-published-with",
+    "footnote-string-to-number",
+    "anchors",
+    "gitbook-plugin-expand-active-chapter",
+    "gitbook-plugin-page-treeview"
+  ],
+  "pluginsConfig": {
+    "plantuml-cloud": {
+      "protocol": "http",
+      "host": "plantuml",
+      "port": 1608,
+      "blockRegex": "^```p?uml((.*[\r\n])+?)?```$"
+    }
+  },
+  "language": "ja"
+}
