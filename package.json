@@ -20,7 +20,6 @@
     "gitbook-plugin-footnote-string-to-number": "^0.0.2",
     "gitbook-plugin-hide-published-with": "^0.0.1",
     "gitbook-plugin-lb2br": "^0.0.5",
-    "gitbook-plugin-page-treeview": "^3.0.6",
     "gitbook-plugin-plantuml-cloud": "^1.0.2"
   }
 }

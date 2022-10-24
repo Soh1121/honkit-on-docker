@@ -11,6 +11,7 @@ Docker上で動作するHonkitのテンプレート
 ```shell
 $ docker compose build --no-cache
 $ docker compose exec honkit bash
+/app# npm install
 /app# npm run init
 /app# npm run serve
 ```
