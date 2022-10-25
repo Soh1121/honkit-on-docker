@@ -3,9 +3,7 @@ services:
   plantuml:
     image: bitjourney/plantuml-service:1.4.2
   honkit:
-    build:
-      context: .
-      dockerfile: docker/Dockerfile
+    image: node:18.11-bullseye-slim
     ports:
       - 4000:4000
     volumes:

@@ -6,8 +6,7 @@
     "hide-published-with",
     "footnote-string-to-number",
     "anchors",
-    "gitbook-plugin-expand-active-chapter",
-    "gitbook-plugin-page-treeview"
+    "gitbook-plugin-expand-active-chapter"
   ],
   "pluginsConfig": {
     "plantuml-cloud": {
