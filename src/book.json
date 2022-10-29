@@ -1,12 +1,11 @@
 {
   "root": ".",
   "plugins": [
-    "lb2br",
-    "plantuml-cloud",
-    "hide-published-with",
-    "footnote-string-to-number",
     "anchors",
-    "gitbook-plugin-expand-active-chapter"
+    "collapsible-chapters",
+    "hide-published-with",
+    "lb2br",
+    "plantuml-cloud"
   ],
   "pluginsConfig": {
     "plantuml-cloud": {
